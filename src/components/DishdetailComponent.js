@@ -32,6 +32,7 @@ function RenderComments({comments}) {
     }
 }
 
+
 const DishDetail = (props) => {
     if (props.dish != null) {
         return (
