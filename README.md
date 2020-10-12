@@ -1,3 +1,8 @@
+## React_FrontEnd
+Front-End Webpage designed using React. It has been developed for a Coursera course called "Front-End Web Development with React".
+
+# -------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
